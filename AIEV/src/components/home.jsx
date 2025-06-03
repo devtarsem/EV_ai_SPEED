@@ -1,7 +1,7 @@
 import { useEffect } from "react"
 import homeStore from "../store/home.store"
-const GOOGLE_KEY = 'AIzaSyDNQIK0w2pE7rTARkfAW77JcHmuSTW4EAI'
-const WEATHER = 'fa5f58c900da47e99b121230252805'
+const GOOGLE_KEY = ''
+const WEATHER = ''
 
 export default function Home(){
 
